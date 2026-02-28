@@ -1,1 +1,1 @@
-# AuroraMind-
+# AuroraMind
